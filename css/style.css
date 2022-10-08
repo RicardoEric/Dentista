@@ -1,0 +1,74 @@
+header{
+    display: flex;
+    justify-content: space-between;
+    background-color: azure;
+
+    padding: 30px;
+}
+
+#logo {
+ padding-left: 71px;
+
+}
+
+#navegacion{
+    display: flex;
+    padding: 50px;
+    width: 810px;
+    justify-content: space-between;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 22px;
+    text-decoration: none;
+}
+
+
+
+header a{
+    padding: 15px 25px;
+    font-size: 24px;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    outline: none;
+    color: black;
+    background-color: beige;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 9px #999;
+    
+   
+}
+
+#navegacion{
+    list-style-type: none;
+}
+
+main{
+    background-color: aquamarine;
+    padding: 50px;
+  
+}
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 71px;
+    text-align: center;
+
+}
+
+
+
+#texto p{
+    text-align: justify;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 22px;
+}
+
+h2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 41px;
+    text-align: center;
+
+}
+#lapiz{
+
+}
